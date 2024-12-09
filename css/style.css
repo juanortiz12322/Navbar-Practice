@@ -14,3 +14,8 @@ img {
 .mt-10 {
     height: 1000px;
 }
+.list{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
